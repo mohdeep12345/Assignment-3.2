@@ -9,12 +9,12 @@ distributed to other students. I acknoledge that violation of this policy
 to any degree results in a ZERO for this assignment and possible failure of
 the course. 
 
-Name:   
-Student ID:   
-Date:  
+Name:   Mohdeep Singh
+Student ID:   109600239
+Date:  03 November 2024
 Cyclic Web App URL:  
 GitHub Repository URL:  
-Cloud name: MOHDEEP API Key :319446695579865 API Secret: qtnAGrUvzR8WL5ydJCQpF4qBz9I
+
 ********************************************************************************/  
 const multer = require("multer");
 const cloudinary = require('cloudinary').v2;
